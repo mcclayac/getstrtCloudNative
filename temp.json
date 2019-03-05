@@ -1,0 +1,17 @@
+[
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "isbn": "0-671-62964-6"
+  },
+  {
+    "title": "Cloud Native Go",
+    "author": "M.L.Reimer",
+    "isbn": "0123456"
+  },
+  {
+    "title": "A Spell for Chameleon",
+    "author": "Piers Anthony",
+    "isbn": "0-345-25855-X"
+  }
+]
